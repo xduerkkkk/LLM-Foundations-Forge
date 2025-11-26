@@ -22,7 +22,7 @@
 
 ### **第一部：变革前夜 —— RNN的瓶颈与Attention的曙光**
 
-*   **📖 文章 (Article):** 
+*   **📖 文章 :** 
      *   [**[中文原文]**](./articles/01_Why_Transformer.md) 
     *   [**[博客发布版]**](https://blog.csdn.net/xuderkk/article/details/153396195?spm=1001.2014.3001.5502) 
     *   **状态:** ✅ **已发布**
@@ -41,6 +41,10 @@
     *   [**[点击此处]**](notebooks\02a_Visualizing_the_Attention_Mechanism.ipynb)
     *   **核心内容:** 通过代码实验，直观感受attention的作用，位置编码的效果
     *   **状态:** ✅ **已发布**
+*   **💻 配套代码:**
+    *   `notebooks/02a_Visualizing_the_Attention_Mechanism.ipynb`
+    *   **核心内容:** 通过代码实验，生动可视化attention、crossattention、multiheadattention、位置编码
+    *   **状态:** ✅ **已发布*
 
 ### **第三部：宏伟蓝图 —— 组装完整的Transformer**
 
