@@ -27,21 +27,29 @@
     *   [**[博客发布版]**](https://blog.csdn.net/xuderkk/article/details/153396195?spm=1001.2014.3001.5502) 
     *   **状态:** ✅ **已发布**
 *   **💻 配套代码:**
-    *   `notebooks/01_The_Sequence_Problem_and_RNN_Solution_Demo.ipynb`
+    *   [**[点击此处]**](notebooks/01_The_Sequence_Problem_and_RNN_Solution_Demo.ipynb)
     *   **核心内容:** 通过代码实验，生动复现静态词向量的“语序丢失”问题，并展示RNN如何从机制上解决它。包含一个【选读】部分，从零实现一个基础RNN。
     *   **状态:** ✅ **已发布**
 
 ### **第二部：核心引擎 —— 深入理解Self-Attention与Multi-Head Attention**
 
-*   **📖 文章:** *(撰写中...)*
+*   **📖 文章:** 
     *   [**[中文原文]**](./articles/02_对Attention机制的深度可视化解剖.md)
     *   [**[博客发布版]**](https://blog.csdn.net/xuderkk/article/details/153882923?spm=1001.2014.3001.5501) 
+    *   **状态:** ✅**已发布**
+*   **💻 配套代码:**
+    *   [**[点击此处]**](notebooks\02a_Visualizing_the_Attention_Mechanism.ipynb)
+    *   **核心内容:** 通过代码实验，直观感受attention的作用，位置编码的效果
     *   **状态:** ✅ **已发布**
 
 ### **第三部：宏伟蓝图 —— 组装完整的Transformer**
 
-*   **📖 文章:** *(规划中...)*
-    *   **状态:** 🗓️ **规划中**
+*   **📖 文章:** 
+    *   [**[中文原文]**](./articles/03_Transformer架构：组装我们的零件.md)
+    *   [**[博客发布版]**](https://www.zhihu.com/question/362131975/answer/1974871373508809790) 
+    *   **状态:** ✅**已发布**
+*   **💻 配套代码:**:
+    会详细开一个大的文章来讲解
 
 ---
 
