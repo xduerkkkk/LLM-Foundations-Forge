@@ -41,10 +41,7 @@
     *   [**[点击此处]**](notebooks\02a_Visualizing_the_Attention_Mechanism.ipynb)
     *   **核心内容:** 通过代码实验，直观感受attention的作用，位置编码的效果
     *   **状态:** ✅ **已发布**
-*   **💻 配套代码:**
-    *   `notebooks/02a_Visualizing_the_Attention_Mechanism.ipynb`
-    *   **核心内容:** 通过代码实验，生动可视化attention、crossattention、multiheadattention、位置编码
-    *   **状态:** ✅ **已发布*
+
 
 ### **第三部：宏伟蓝图 —— 组装完整的Transformer**
 
